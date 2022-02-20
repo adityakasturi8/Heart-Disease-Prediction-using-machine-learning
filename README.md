@@ -2,7 +2,7 @@
 
 
 
-<b> About the Dataset: 
+<b> About the Dataset: </b>
 There are 76 attributes in the Heart Disease Data Set, however only 14 of them are used in all published trials. To yet, the Cleveland database has been the only one that ML researchers have utilized to conduct their studies. The presence of heart illness in the patient is indicated by the "target" field. It has an integer value ranging from O (no presence) to 4, with O being the default. Most of the Cleveland database experiments have been focused on attempting to distinguish between presence (values 1, 2, 3, 4) and absence (values 0). (values 0). (In this case, the value is 0). Therefore, this assignment can be described as a problem of binary classification.
   
 <b> Attribute Information:</b>
