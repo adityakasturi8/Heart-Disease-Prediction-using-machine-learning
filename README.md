@@ -1,5 +1,5 @@
-# HeartDiseasePrediction
-
+# Heart Disease Prediction Using Machine Leanring 
+ 
 
 
 <b> About the Dataset: </b>
